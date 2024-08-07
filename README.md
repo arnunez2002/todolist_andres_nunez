@@ -1,5 +1,10 @@
 # Frontend Aplication for TodoList postulation for LG LNS - Andres Nuñez
 
+
+### Aplicación desplegada:
+
+https://66b3f33c676f5c3f5a9ce386--dulcet-crepe-8bbc08.netlify.app/
+
 ## Table of contents
 
 - [Overview](#overview)
