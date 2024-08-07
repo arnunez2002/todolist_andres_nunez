@@ -46,7 +46,9 @@ Pasos para copiar y correr el proyecto:
 NOTA:
 Verificar su versión de node con el comando: node -v (Este programa se hizo con la v16.15.1)
 Verificar su versión de npm con el comando: npm -version (Este programa se hizo con la 8.11.0)
-
+- Ingresar a la carpeta "fronend" para copiar y extraer en su directorio.
+- Abrir carpeta con el codigo fuente en su editor de codigo
+- Abrir terminal y escribir los siguiente comandos:
 - node -v
 - npm i
 - npm start
